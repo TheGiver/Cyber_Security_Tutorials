@@ -1,0 +1,10 @@
+Lecture Title: Potential Security Threats To Your Computer System
+-----------------------------------------------------------------
+Definition of a threat:
+A threat, in this course, will be defined as a potential attack from an attacker 
+or hacker that will allow them to gain previlage athorization to your device, OS 
+and data in an illegal manner. 
+-----------------------------------------------------------------
+Types of threats:
+In this course, we will be focusing on non-physical threats such as DDoS, viruses, 
+worms, key-loggers, unauthorised accesses, etc. 

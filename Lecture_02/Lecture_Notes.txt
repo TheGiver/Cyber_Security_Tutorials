@@ -1,0 +1,7 @@
+Lecture Title: Hacking Tools
+----------------------------
+Introduction:
+There exists plenty of tools available for use by whitehat hackers. Example of 
+such tools and a description of their functionality can be seen by clicking the 
+following link:
+https://www.guru99.com/learn-everything-about-ethical-hacking-tools-and-skills.html
