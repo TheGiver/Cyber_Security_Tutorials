@@ -1,0 +1,36 @@
+Lecture Title: Cryptography
+---------------------------
+Definition of Cryptography:
+Cryptography is the study and application of encryption/decryption algorithms. 
+---------------------------
+Definition of Encryption:
+It is the process of converting human readable text into an unreadable form 
+to prevent unwanted third parties from being able to steal information. 
+---------------------------
+Definition of Decryption:
+Decryption is the process of converting the cyphertext back into its original 
+human readable format. 
+---------------------------
+Cryptanalysis:
+It is the art of studying ciphertexts with the purpose of analysing the encryption 
+technique used to generate the text. This process will help with converting the text 
+into its original decrypted format. 
+
+Cryptanalysis depends on patterns that appear over and over again in the ciphertext and
+attempting to make sense out of those patterns to be able to break the ciphertext into the 
+decrypted text. 
+---------------------------
+Cryptology:
+It is a combination of both cryptography and cryptanalysis. 
+---------------------------
+Encryption Algorithms:
+(a) MD5
+(b) SHA family
+(c) RC4 
+(d) BLOWFISH
+Other algorithms can be found online. 
+---------------------------
+Cryptools:
+It is a cryptanalysis tool that is used for educational purposes. 
+This tool is used to attempt to breakdown the ciphertext back to its original 
+format. 
