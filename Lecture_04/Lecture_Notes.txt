@@ -1,0 +1,42 @@
+Lecture Title: Guide to Password Cracking
+-----------------------------------------
+What is password cracking?
+It is the process of figuring out someone's password to gain access
+to their accounts without prior consent. 
+-----------------------------------------
+How to crack passwords?
+There exists multiple techniques to crack someone's password and those are:
+(a) Bruteforce:
+    It is the process of attempting all possible combinations of characters 
+    until the password is found. 
+    The process is slow and becomes more and more difficult as the password 
+    becomes longer and more random. 
+
+(b) Social engineering:
+    It is the process of being able to obtain someone's password through the 
+    use of social games and tricks. For instance, pretending to be someone from 
+    the IT department or an official employee and earning the person's trust such 
+    that they end up giving away their password.
+
+(c) Dictionary attack:
+    In the cyber world, there exists a table composed of the most common passwords 
+    that tend to be used. 
+
+    If an attacker knows that his target is naiive when it comes to securing their
+    data, the attacker can iterate over this table and see if the target's password 
+    matches any of the passwords in that database. 
+
+(d) Rainbow table attacks:
+    The rainbow table is one that consists of the hashes of the most common passwords. 
+    The attacker can use this to see if the password matches any of the hashes. 
+
+(e) Spidering:
+    This technique involves exposing something that most humans fall into which is setting 
+    their passwords in relation to something they love, like, appreciate or something that 
+    they are involved in. An attacker can therefore scan that person's data online and attempt 
+    to connect the dots and find the things that the target is involved in, hence forming a 
+    a possible password. 
+
+(f) Phishing:
+    It is the process of tricking the target into entering their passwords by creating fake websites
+    or emails that are really similar to the real ones. 
