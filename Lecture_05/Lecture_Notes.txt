@@ -1,0 +1,30 @@
+Lecture Title: Tojan Horse, Worm and Virus
+------------------------------------------
+Introduction:
+Real hackers will always attempt to gain access to other people's information 
+without their consent or disrupt the business operations.
+
+They will do so using malicious programs such as:
+(a) Torjan Horses
+(b) Worms
+(c) Viruses
+
+As ethical hackers, we need to be aware of these methods as it will help us test 
+the security of systems, the business's security policies and how well do people 
+follow these rules. 
+------------------------------------------
+Torjan Horse:
+A trojan horse is a malicious program that tends to be disguised as a useful program. 
+These programs give the attacker the ability to access the target's device remotely 
+and perform other malicious activities. 
+------------------------------------------
+Worm:
+A worm is a malicious program that is self replicating and one that tends to do so 
+over the network. 
+------------------------------------------
+Virus:
+A virus is a program that attaches itself to files and resources illegally. 
+------------------------------------------
+Purposes and Prevention Techniques:
+Those can be read from the following link:
+https://www.guru99.com/learn-everything-about-trojans-viruses-and-worms.html
